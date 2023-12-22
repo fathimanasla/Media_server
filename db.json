@@ -1,0 +1,145 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "chaleya",
+      "thumbnail": "https://th.bing.com/th/id/OIP.9LZDXxavK4VygP7mLPulwgAAAA?rs=1&pid=ImgDetMain",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "2",
+      "caption": "Heeriye",
+      "thumbnail": "https://i.ytimg.com/vi/RLzC55ai0eo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "3",
+      "caption": "humko tere bina jeena",
+      "thumbnail": "https://i.ytimg.com/vi/t_5-GH0ALVM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/AHAl1R2YIr0"
+    },
+    {
+      "id": "4",
+      "caption": "premakathu",
+      "thumbnail": "https://lyricsraag.com/wp-content/uploads/2023/05/Premakkathu-Pattu-Lyrics-Translation-Kadina-Kadoramee-Andakadaham.jpg",
+      "url": "https://www.youtube.com/embed/yk3ReGsUpyA"
+    },
+    {
+      "id": "5",
+      "caption": "chaleya",
+      "thumbnail": "https://th.bing.com/th/id/OIP.hS5CBX26f5v3lqzY_2yAsgHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "url": "https://www.youtube.com/embed/A8hbw3-D610"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "categoryName": "movie songs",
+      "allVideos": [
+        {
+          "id": 1,
+          "caption": "chaleya",
+          "thumbnail": "https://th.bing.com/th/id/OIP.9LZDXxavK4VygP7mLPulwgAAAA?rs=1&pid=ImgDetMain",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "categoryName": "Melody",
+      "allVideos": []
+    },
+    {
+      "id": "4",
+      "categoryName": "movie songs",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Heeriye",
+          "thumbnail": "https://i.ytimg.com/vi/RLzC55ai0eo/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": "2",
+      "caption": "Humko tere bina",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "20-12-2023"
+    },
+    {
+      "id": 1,
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-20T04:36:33.046Z"
+    },
+    {
+      "id": "3",
+      "caption": "humko tere bina jeena",
+      "url": "https://www.youtube.com/embed/AHAl1R2YIr0",
+      "date": "2023-12-20T04:36:58.038Z"
+    },
+    {
+      "id": "6b06e965-13b7-4b47-9d21-a67b444fe6ee",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-20T04:51:31.686Z"
+    },
+    {
+      "id": "78ae0cac-35a9-4637-be6d-4ff6195d3119",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-20T06:43:22.124Z"
+    },
+    {
+      "id": "b88588f0-3088-4a31-a3f1-4bcf612b7a63",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-20T06:45:28.960Z"
+    },
+    {
+      "id": "b0e5cff8-7224-49b3-82ad-5af1dbf08525",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-20T06:46:40.395Z"
+    },
+    {
+      "id": "6d56d327-76fc-4457-a1c0-79edbc08190e",
+      "caption": "Heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-12-20T06:48:00.835Z"
+    },
+    {
+      "id": "0342b0f8-e7ff-4d81-ba64-7f8f9ed079cc",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-20T07:18:04.867Z"
+    },
+    {
+      "id": "2fdfec02-b492-4891-9fc9-c15d85586709",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-20T07:26:47.191Z"
+    },
+    {
+      "id": "a05923bf-2356-4dce-b0a9-bf9e7012b7fe",
+      "caption": "Heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-12-22T04:16:48.676Z"
+    },
+    {
+      "id": "479d6d7e-46a6-4b9a-8f28-89185d3e8c9d",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-22T04:19:57.424Z"
+    },
+    {
+      "id": "f97dc416-11bd-40e6-8157-25e892b1b31b",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-22T04:20:02.670Z"
+    }
+  ]
+}
